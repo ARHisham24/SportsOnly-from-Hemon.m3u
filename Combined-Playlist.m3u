@@ -334,15 +334,15 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 
 ########################## NEWS INTERNASIONAL ##########################
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV", Times Of India 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL", Times Of India 
 https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV", Wion News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL", Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV",Tv9 Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL",Tv9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV", TRT WORLD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL", TRT WORLD 
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV", Press TV Iran
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL", Press TV Iran
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/DtaJNT", France 24 English (720p) 
