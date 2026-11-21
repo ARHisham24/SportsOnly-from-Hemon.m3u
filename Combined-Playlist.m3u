@@ -353,9 +353,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://is.gd/ih6x8j", NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV", TRT World
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL", TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL TV", T Global News (Canada)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/gMHdWpwk/news-international-logo.png" group-title="NEWS INTERNASIONAL", T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNASIONAL" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
