@@ -136,6 +136,23 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayibqpy7eg/out/v1
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", NPL Vs NPL - NPL LIVE FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936
+https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket",  UNBEATEN FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket",  SandBrix HD
+https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
+
+
+
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sky Sport Cricket
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
@@ -192,6 +209,12 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ############################################################################## Live Events ########################################################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Live Events", SKY SPORTS EPL FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Live Events", FUBO SPORTS ALT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
