@@ -5,9 +5,9 @@
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/fYYrxKHh/svg.png",সময় টিভি 🇧🇩
 https://toffee.sm-monirul-islam-rs.workers.dev/somoy_tv/index.m3u8
-EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/LDqWqzYS/images.png",Ekattor-TV 🇧🇩
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/LDqWqzYS/images.png",Ekattor-TV 🇧🇩
 https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
-EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/MyNqZdHt/images-1.png",Jamuna-TV 🇧🇩
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/MyNqZdHt/images-1.png",Jamuna-TV 🇧🇩
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/kr61rgp/images.jpg",Star News 🇧🇩
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
