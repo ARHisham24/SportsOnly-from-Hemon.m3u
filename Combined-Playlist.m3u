@@ -39,8 +39,6 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/rWBZhhy/images.png", Tapmad
 https://t-prod-bd.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/rWBZhhy/images.png", Tapmad
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", Pakistan A Vs INDIA A - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,7 +55,7 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key=9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qwtncijddv/out/v1/04a014ed48a447d9a59f48be45f26e20/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", PREMIER 1 SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", PREMIER 2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
@@ -84,36 +82,17 @@ https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/in
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", PRIME ENG FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fda7a391d6346eb3176d0379fdc094d0:1ee285d5bec7f6855d51e3e5f630ad1f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mebvsdzu7s/out/v1/563c92c11fff4290a160e365f6996c34/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", PRIME HINDI FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=424a04fa4464fdb9d5f3d61ddf48776a:85a5da47db9f57cdccdbac01c980aece
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szeafaauqf/out/v1/6b31170c3b5749928bff04fc71f02b06/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", WILLOW ALT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qwtncijddv/out/v1/04a014ed48a447d9a59f48be45f26e20/cenc.mpd
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", TNT 1 UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M5Zkn6Qx/images.png" group-title="Live Cricket", New Zealand Vs India - TNT 2 UK SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M5Zkn6Qx/images.png" group-title="Live Cricket", TNT 2 UK SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", FANCODE SD
@@ -222,12 +201,31 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ############################################################################## Live Events ########################################################################
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", PRIME VIDEO- Sony Liv
-#EXTVLCOPT:http-referrer=https://www.primevideo.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcN8GhmM/images-1.png" group-title="Football Live Events", PARAMOUNT+ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=597a231fbb743ae8a769870b56a969cc:01a9607c93b58cef4bb542ad2d5ef0cb
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/unwlyckhe8/out/v1/9cd8457daba746b69588e622c576ec4b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcN8GhmM/images-1.png" group-title="Football Live Events", PARAMOUNT+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df25bcbd5cbf3f2705a43fd3d14c54c:934792d26766ed9b544106cc53435f3c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/natshq7dc3/out/v1/b2811dcdd48d494d83d645fff2852144/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcN8GhmM/images-1.png" group-title="Football Live Events", PARAMOUNT+ FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2acb628530881beed2e6804a7bf2031:c12851d55f0fc64b1bfa9c6a607d9379
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g7eor9c30s/out/v1/15aa36d2abaa494bbae862ffece8a603/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdHtrDBH/images.jpg" group-title="Football Live Events", DAZN Multi Commentary
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63659c752b5df41f277460df8f246225:4f2376463fcdb6a10d2a863e8bfd2902
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/at5ay8ceup/out/v1/a494c8de4aad410a9feef3d2892f1484/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events",  TSN4 SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", SKY SPORT DE FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -241,18 +239,27 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events",SKY BUNDESLIGA FHD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", SKY BUNDESLIGA FHD 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", SKY BUNDESLIGA FHD 4 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events",  PREMIER1 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", SKY SPORTS EPL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events",  FUBO SPORTS ALT
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events",  FUBO SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
@@ -387,6 +394,12 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
 https://ac-009.live.p7s1video.net/181aa0bf/t_009/sport1-de/cenc-default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events",  D SPORTS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", D SPORTS ++ FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
