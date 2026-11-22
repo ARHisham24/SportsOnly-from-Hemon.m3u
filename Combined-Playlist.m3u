@@ -39,6 +39,8 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/rWBZhhy/images.png", Tapmad
 https://t-prod-bd.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/rWBZhhy/images.png", ,India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795402597~acl=/*~id=59219626045400876623631320874146~hmac=c4e880db6caddeee8602e9d753a6b809d73f38a1e334934a681baa7302c4a3b4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", Pakistan A Vs INDIA A - WILLOW FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
