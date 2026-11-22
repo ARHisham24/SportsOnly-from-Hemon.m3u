@@ -201,21 +201,6 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ############################################################################## Live Events ########################################################################
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcN8GhmM/images-1.png" group-title="Football Live Events", PARAMOUNT+ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4ac5abd2b6d8622d1157bd86a3d6cf6:4e8b55d53eb1298c6b55a96c193deac5
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrs7oyyigv/out/v1/d6418c6bbdef45f6a2eeb9bc2026755a/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcN8GhmM/images-1.png" group-title="Football Live Events", PARAMOUNT+ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0df25bcbd5cbf3f2705a43fd3d14c54c:934792d26766ed9b544106cc53435f3c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/natshq7dc3/out/v1/b2811dcdd48d494d83d645fff2852144/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VcN8GhmM/images-1.png" group-title="Football Live Events", PARAMOUNT+ FHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2acb628530881beed2e6804a7bf2031:c12851d55f0fc64b1bfa9c6a607d9379
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g7eor9c30s/out/v1/15aa36d2abaa494bbae862ffece8a603/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdHtrDBH/images.jpg" group-title="Football Live Events", DAZN Multi Commentary
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6365ce13b350b2d18c0c8ca197788571:15c4d7c272fd71c8f3ec017ee2bf0301
