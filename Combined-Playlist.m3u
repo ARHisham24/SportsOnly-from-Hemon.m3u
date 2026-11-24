@@ -237,7 +237,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
-############################################################################## Live Events ########################################################################
+############################################################################## Live Events ########################################################################c
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events", TAPMAD - AQ
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events", TNT SPORTS AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdHtrDBH/images.jpg" group-title="Football Live Events", DAZN Multi Commentary
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -381,6 +388,11 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/
 #KODIPROP:inputstream.adaptive.license_key=74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", TSN SPORTS AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", TSN 2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -408,6 +420,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", VIX TN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Football Live Events", NOVA1 SPORTS FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
