@@ -160,14 +160,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket",  SandBrix HD
 https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8
 
-
-
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sky Sport Cricket
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",TNT Sport 1
 https://tvsen5.aynaott.com/asdfadsf/index.m3u8
-
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Ten Sports
 https://live.incableinternet.com/ten-sports/master.m3u8
@@ -187,7 +184,6 @@ https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Ten Cricket
 https://iptvlive.ahmed-bd-org.workers.dev/ten-cricket-1/index.m3u8
-
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
@@ -220,6 +216,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 ############################################################################## Live Events ########################################################################c
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events", TAPMAD - AQ
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0VVhqMQx/images-1.jpg" group-title="Football Live Events", Sports Digital 1+ HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events", SPORTV BR - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
