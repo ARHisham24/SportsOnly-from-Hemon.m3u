@@ -39,8 +39,7 @@ https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&ci
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4Ph2sdk/images-1.jpg" group-title="Live Cricket", T Sports HD
 http://103.209.196.22:84/feed1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ks4zDy3Z/images-3.jpg" group-title="Live Cricket", Sky Sports Main Event 
-https://admin2.formaturamaxi.com.br/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFrTFXqF/images-4.jpg" group-title="Live Cricket", Star Sports Select 1 HD   
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=scn
 
@@ -55,6 +54,11 @@ https://t-prod-bd.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea54
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/rWBZhhy/images.png", Tapmad
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", WILLOW - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", TNT 3 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
