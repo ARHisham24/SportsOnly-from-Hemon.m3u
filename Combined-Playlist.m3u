@@ -21,6 +21,8 @@ https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3
 #EXTINF:-1 group-title="News & Others" tvg-logo=" ",Nagorik_TV
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/5WxhbHbD/images.jpg",ARY Digital HD
+https://cdn4.mjunoon.tv:8087/streamtest/84M/chunks.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo="https://is.gd/pOyTnP",Al-Jazeera HD 
 https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo=" ",CNA News
