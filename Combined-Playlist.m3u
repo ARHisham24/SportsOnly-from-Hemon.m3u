@@ -52,6 +52,10 @@ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.clo
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFrTFXqF/images-4.jpg" group-title="Live Cricket", Star Sports Select 1 HD   
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=scn
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RkWbSbXZ/images-1.jpg" group-title="Live Cricket", Sony Sports 1 HD
+https://s3.itcnbd.live/server-12/stream/NzQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RkWbSbXZ/images-1.jpg" group-title="Live Cricket", Sony Sports 5 HD
+https://s3.itcnbd.live/server-12/stream/MTAx.m3u8
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/rWBZhhy/images.png", Tapmad
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
