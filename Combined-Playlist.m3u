@@ -51,6 +51,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=134105&uid=5005&deviceMac=00:1A:79:8C
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVdDsYXf/images-3.jpg" group-title="Live Cricket", PTV Sports HD
 http://103.16.24.4:8083/4.m3u8   
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWm2chfj/images-1.png" group-title="Live Cricket", Unite8-Sports-1 HD
+http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
+
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/8nm0gMC1/images.jpg",Willow_Sports HD
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 
