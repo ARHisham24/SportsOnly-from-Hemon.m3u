@@ -39,6 +39,9 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
 
 ################################################### Live Cricket ####################################################
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WvKB7DqV/images.png" group-title="Live Cricket", Cricbuzz Live  
+http://live.ftpbdlive.com:8080/live/FTPBD-LIVETV/FTPBD-2026/22.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4Ph2sdk/images-1.jpg" group-title="Live Cricket", T Sports HD
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4Ph2sdk/images-1.jpg" group-title="Live Cricket", T Sports HD
