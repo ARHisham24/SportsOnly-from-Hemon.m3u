@@ -227,8 +227,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events", TAPMAD - AQ 🇵🇰
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9kXW4nw/images.png" group-title="Football Live Events", LIVE Only
+https://live3979.zundrixmediapipeline.com/live/channel18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0VVhqMQx/images-1.jpg" group-title="Football Live Events", Sports Digital 1+ HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/102539/102539_264_live.m3u8
 
