@@ -46,6 +46,9 @@ http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G4Ph2sdk/images-1.jpg" group-title="Live Cricket", T Sports HD
 http://tv.cloudcdn.me:80/live.ts?channelId=134105&uid=5005&deviceMac=00:1A:79:8C:0C:E9
 
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/8nm0gMC1/images.jpg",Willow_Sports HD
+https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JFrTFXqF/images-4.jpg" group-title="Live Cricket", Star Sports Select 1 HD   
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=scn
 
@@ -179,21 +182,16 @@ https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sky Sport Cricket
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",TNT Sport 1
-https://tvsen5.aynaott.com/asdfadsf/index.m3u8
-
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Ten Sports
 https://live.incableinternet.com/ten-sports/master.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow 
-https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow TV
-https://playztv-apps.pages.dev/willow-tv/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow Sports HD 
-https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow Sports 2 
-https://tvsen7.aynaott.com/Sports1/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Ten Sports
+https://live.msnetworks.net/ten-sports/master.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports 
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports 
+https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", T Sports HD
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", PTV Sports HD
@@ -203,24 +201,13 @@ https://iptvlive.ahmed-bd-org.workers.dev/ten-cricket-1/index.m3u8
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow Sports
-https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow Sports
-https://tvsen5.aynaott.com/willowhd/index.m3u8#fb:M3U_World_4K?_hls_ts=1793851861409
 
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports 
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports 
-https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Ten Sports
-https://live.msnetworks.net/ten-sports/master.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Siyatha tv 
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Willow_Sports HD
-https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
+
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Redbull TV
